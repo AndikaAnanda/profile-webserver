@@ -1,0 +1,46 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.title {
+    text-align: center;
+    background-color: cornflowerblue;
+    padding: 20px;
+    color: white;
+}
+.profile {
+    padding: 7rem;
+    text-align: center;
+    background-color: #413737;
+    color: white;
+}
+.profile-img {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+}
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5rem;
+}
+.story {
+    padding-right: 5rem;
+}
+
+.social-media {
+    text-align: center;
+    padding: 3rem;
+}
+.logo a {
+    text-decoration: none;
+    color: black;
+}
+.logo i{
+    font-size: 3rem;
+    padding-left: 1rem;
+    padding-right:1rem;
+}
